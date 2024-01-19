@@ -5,7 +5,7 @@
         Definitions for a portable java development environment
     .NOTES
         To update a package, update its name and its URL, then delete all folders and run Setup.
- #>
+#>
 
 #
 # Oracle JDK archive

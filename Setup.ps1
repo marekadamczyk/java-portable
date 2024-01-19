@@ -5,7 +5,7 @@
         Downloads, unpacks, and prepares a portable
         Java development environment.
         Big thanks to https://github.com/toksaitov/AndroidStudioPortable
- #>
+#>
 
 #
 # Definitions
